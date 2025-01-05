@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fgwdlrb",
+  "name": "ForgeWDL-Rebuild",
+  "description": "Rebuild ForgeWDL",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Layaot"],
+  "credits": "Principlecreativity",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
